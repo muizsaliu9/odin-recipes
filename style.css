@@ -1,0 +1,53 @@
+.main-body {
+    background-color:cornsilk;
+    font-size:large;
+}
+.bakedziti-wrapper{
+    background-color: blueviolet;
+}
+.ing{
+    font-size:1.5rem;
+    color: beige;
+}
+.step-wrapper{
+    color: beige;
+}
+.des-wrapper{
+    color: beige;
+}
+.krautburger-wrapper{
+    background-color:darkslategray;
+}
+.des-wrapper{
+    color: bisque;
+}
+.ing-wrapper{
+    color: bisque;
+    font-size: smaller;
+}
+.step-wrapper{
+    color: beige;
+}
+.pumpkin-turkey-chili-wrapper{
+    background-color:grey;
+}
+.des-wrapper{
+    color:burlywood
+}
+.des-wrapper-2{
+    color: bisque;
+    font-size: 1.5rem;
+}
+.ing-wrapper{
+    color: burlywood;
+    font-size: larger;
+}
+.ing-wrapper-2{
+    color: bisque;
+}
+.step-wrapper{
+    color: burlywood;
+}
+.step-wrapper-2{
+    color: bisque;
+}
